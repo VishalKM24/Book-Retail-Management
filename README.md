@@ -12,15 +12,15 @@
  
  ### Login Page
  
- ![Login Page](https://github.com/VishalM24/Retail-Management-Mini/blob/master/Login-Page.PNG)
+ ![Login Page](https://github.com/VishalM24/Retail-Management/blob/master/Login-Page.PNG)
  
  ### Admin View
  
-  ![Admin Page](https://github.com/VishalM24/Retail-Management-Mini/blob/master/Admin-View/Home-Page.PNG)
+  ![Admin Page](https://github.com/VishalM24/Retail-Management/blob/master/Admin-View/Home-Page.PNG)
   
   ### User View
   
-  ![User Page](https://github.com/VishalM24/Retail-Management-Mini/blob/master/User-View/Homepage.PNG)
+  ![User Page](https://github.com/VishalM24/Retail-Management/blob/master/User-View/Homepage.PNG)
   
   
   - Server used behind this is Tomcat, which helps to connect MySQL data for retrieval
